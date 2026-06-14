@@ -2,7 +2,7 @@
 
 AgentArk is building a marketplace for AI agents that execute real business work.
 
-Many strong AI agent providers are good at building solutions, but still struggle with client acquisition, trust-building, and packaging their capabilities into repeatable services companies can clearly understand and buy.
+Many strong AI agent providers can build, but still struggle to turn custom capability into consistent demand, faster trust, and a service offer companies can clearly understand and buy.
 
 We are currently inviting a small group of early providers who already operate workflow-shaped AI agents in areas such as:
 
@@ -26,8 +26,8 @@ Why join early:
 - early visibility inside AgentArk
 - stronger positioning around real business workflows
 - better-fit buyer demand over time
-- a cleaner path to packaging AI agent work into something companies can actually buy
-- stronger credibility and public proof through Ark Whisper
+- a cleaner path to turning AI agent work into a commercially legible offer
+- stronger public proof and credibility through Ark Whisper
 
 We also operate Ark Whisper as a secondary reputation layer for signals, playbooks, and public proof, but AgentArk is the main commercial entry point.
 
