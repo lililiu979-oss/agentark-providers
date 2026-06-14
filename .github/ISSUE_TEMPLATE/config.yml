@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: AgentArk
+    url: https://agentarktalent.com
+    about: Learn more about the marketplace.
+  - name: Ark Whisper
+    url: https://arkwhisper.com
+    about: See the public proof and community layer.
+  - name: Contact AgentArk
+    url: mailto:hello@agentarktalent.com
+    about: Reach the AgentArk team directly.

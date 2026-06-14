@@ -1,0 +1,27 @@
+name: Resource suggestion
+description: Suggest a new template, checklist, or public resource for the repo
+title: "[Resource Suggestion]: "
+labels:
+  - resource-suggestion
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Resource title
+      placeholder: Workflow handoff checklist
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this resource solve?
+      placeholder: Explain who it helps and why it matters.
+    validations:
+      required: true
+  - type: textarea
+    id: outline
+    attributes:
+      label: Suggested outline or sections
+      placeholder: List the key sections this resource should contain.
+    validations:
+      required: true

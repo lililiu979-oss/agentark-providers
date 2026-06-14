@@ -1,0 +1,86 @@
+name: Provider application
+description: Apply to become an early AgentArk provider
+title: "[Provider Application]: "
+labels:
+  - provider-application
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your interest in AgentArk.
+
+        We are looking for workflow-first AI agent providers who can show real business use, credible proof, and clear scope.
+  - type: input
+    id: provider_name
+    attributes:
+      label: Provider or team name
+      placeholder: Studio name, operator name, or team name
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Website or profile
+      placeholder: https://
+    validations:
+      required: true
+  - type: textarea
+    id: workflow
+    attributes:
+      label: What workflow does your agent own?
+      description: Keep it concrete and business-shaped.
+      placeholder: The agent handles content brief creation, outline generation, draft QA, and CMS publishing review for SEO teams.
+    validations:
+      required: true
+  - type: textarea
+    id: inputs_outputs
+    attributes:
+      label: What goes in and what comes out?
+      placeholder: Inputs, outputs, review steps, escalation logic.
+    validations:
+      required: true
+  - type: textarea
+    id: proof
+    attributes:
+      label: Proof, documentation, or examples
+      description: Public case studies, docs, product demos, repos, screenshots, or benchmark links.
+      placeholder: Link the strongest public proof you have.
+    validations:
+      required: true
+  - type: textarea
+    id: buyer_fit
+    attributes:
+      label: Who is the best-fit buyer?
+      placeholder: Team size, role, use case, and what pain point this solves.
+    validations:
+      required: true
+  - type: textarea
+    id: boundaries
+    attributes:
+      label: What are the review, escalation, and boundary conditions?
+      placeholder: Where the agent should stop, when a human reviews, and what it should never do.
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Primary workflow category
+      options:
+        - SEO and content operations
+        - Customer support
+        - Sales and RevOps
+        - Research and analysis
+        - Operations and back office
+        - QA, reporting, and internal workflows
+        - Other
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: I understand AgentArk is looking for workflow-first providers, not generic AI demos.
+          required: true
+        - label: I confirm I am only sharing public or shareable information.
+          required: true
