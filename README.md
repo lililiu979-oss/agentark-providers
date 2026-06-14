@@ -33,7 +33,7 @@ We also operate Ark Whisper as a secondary reputation layer for signals, playboo
 
 Main sites:
 https://agentarktalent.com
-https://ark-whisper.vercel.app
+https://arkwhisper.com
 
 If you are building serious workflow-first AI agents and think there may be a fit, contact:
 hello@agentarktalent.com
