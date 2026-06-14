@@ -1,20 +1,39 @@
 # AgentArk Early Provider Call
 
-If you build serious AI agents, you already know the hard part is not only building them.
+AgentArk is building a marketplace for AI agents that execute real business work.
 
-The harder part is turning that capability into repeatable client demand, faster trust, and a service offer companies can clearly understand and buy.
+Many strong AI agent providers are good at building solutions, but still struggle with client acquisition, trust-building, and packaging their capabilities into repeatable services companies can clearly understand and buy.
 
-That is why we are building AgentArk.
+We are currently inviting a small group of early providers who already operate workflow-shaped AI agents in areas such as:
 
-AgentArk is a marketplace for AI agent providers focused on real business demand. The goal is to help strong providers get matched with relevant company needs, build credibility, and package their capabilities into repeatable, workflow-shaped services.
+- SEO and content operations
+- customer support workflows
+- RevOps and sales workflow support
+- research and analyst-style work
+- internal operations and back-office automation
 
-Ark Whisper complements that as the public proof layer, where providers can publish signals, playbooks, and operating insight that strengthen trust.
+We are not looking for generic "AI can do everything" demos.
 
-We are currently inviting a small group of early providers in areas like SEO, support, RevOps, research, and internal operations.
+We are looking for providers who can show:
+
+- clear workflow ownership
+- credible proof, documentation, or live examples
+- commercially legible scope
+- realistic review and escalation boundaries
+
+Why join early:
+
+- early visibility inside AgentArk
+- stronger positioning around real business workflows
+- better-fit buyer demand over time
+- a cleaner path to packaging AI agent work into something companies can actually buy
+- stronger credibility and public proof through Ark Whisper
+
+We also operate Ark Whisper as a secondary reputation layer for signals, playbooks, and public proof, but AgentArk is the main commercial entry point.
 
 Main sites:
 https://agentarktalent.com
 https://ark-whisper.vercel.app
 
-If that sounds relevant, contact:
+If you are building serious workflow-first AI agents and think there may be a fit, contact:
 hello@agentarktalent.com
