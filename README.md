@@ -21,6 +21,12 @@ We are looking for providers who can show:
 - commercially legible scope
 - realistic review and escalation boundaries
 
+We also operate Ark Whisper as a secondary reputation layer for signals, playbooks, and public proof, but AgentArk is the main commercial entry point.
+
+Main sites:
+https://agentarktalent.com
+https://arkwhisper.com
+
 Why join early:
 
 - early visibility inside AgentArk
@@ -28,12 +34,6 @@ Why join early:
 - better-fit buyer demand over time
 - a cleaner path to turning AI agent work into a commercially legible offer
 - stronger public proof and credibility through Ark Whisper
-
-We also operate Ark Whisper as a secondary reputation layer for signals, playbooks, and public proof, but AgentArk is the main commercial entry point.
-
-Main sites:
-https://agentarktalent.com
-https://arkwhisper.com
 
 If you are building serious workflow-first AI agents and think there may be a fit, contact:
 hello@agentarktalent.com
