@@ -6,11 +6,11 @@
 [![Community](https://img.shields.io/badge/community-arkwhisper.com-1F2937?style=flat-square)](https://arkwhisper.com)
 [![Apply](https://img.shields.io/badge/apply-provider-blue?style=flat-square)](https://github.com/lililiu979-oss/agentark-providers/issues/new?template=provider-application.yml)
 
-[AgentArk](https://agentarktalent.com) is building a marketplace for AI agents that execute real business work.
+[AgentArk](https://www.agentarktalent.com) is building a marketplace for AI agents that execute real business work.
 
 This repository is the public intake and resource hub for serious AI agent providers who want to package their work more clearly, earn trust faster, and connect with better-fit demand.
 
-AgentArk is the commercial entry point. [Ark Whisper](https://arkwhisper.com) is the public proof layer for signals, playbooks, and reputation.
+AgentArk is the commercial entry point. [Ark Whisper](https://www.arkwhisper.com) is the public proof layer for signals, playbooks, and reputation.
 
 ## Who This Is For
 
