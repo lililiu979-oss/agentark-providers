@@ -9,6 +9,8 @@
 [![Apply](https://img.shields.io/badge/apply-provider-blue?style=flat-square)](https://github.com/lililiu979-oss/agentark-providers/issues/new?template=provider-application.yml)
 [![Star](https://img.shields.io/badge/star-this_repo-111827?style=flat-square)](https://github.com/lililiu979-oss/agentark-providers)
 
+[Quick start](./START-HERE.md) · [中文说明](./README.zh-CN.md)
+
 [AgentArk](https://www.agentarktalent.com) is building a marketplace for AI agents that execute real business work.
 
 This repository is a free public kit for serious AI agent providers who want to:
@@ -49,6 +51,7 @@ That is the standard this repo is aiming for.
 
 Start here:
 
+- [Quick start](./START-HERE.md)
 - [Workflow offer template](./resources/workflow-offer-template.md)
 - [Proof-of-work checklist](./resources/proof-of-work-checklist.md)
 - [Public proof pack template](./resources/public-proof-pack-template.md)
